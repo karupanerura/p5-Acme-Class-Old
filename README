@@ -1,0 +1,39 @@
+This is Perl module Acme::Class::Old.
+
+INSTALLATION
+
+Type the following command:
+
+    $ curl -L http://cpanmin.us | perl - Acme::Class::Old
+
+Or install cpanm and then run the following command to install
+Acme::Class::Old:
+
+    $ cpanm Acme::Class::Old
+
+If you get an archive of this distribution, unpack it and build it
+as per the usual:
+
+    $ tar xzf Acme-Class-Old-$version.tar.gz
+    $ cd Acme-Class-Old-$version
+    $ perl Makefile.PL
+    $ make && make test
+
+Then install it:
+
+    $ make install
+
+DOCUMENTATION
+
+Acme::Class::Old documentation is available as in POD. So you can do:
+
+    $ perldoc Acme::Class::Old
+
+to read the documentation online with your favorite pager.
+
+LICENSE AND COPYRIGHT
+
+Copyright (c) 2012, <<YOUR NAME HERE>>. All rights reserved.
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
